@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilmerm
 - 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning Vuejs, Javascript, TypeScript
-- 📫 How to reach me: wilmermorelmartinez@gmail.com
+- 📫 How to reach me: info@wilmermartinez.dev
 
 <!---
 wilmerm/wilmerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
