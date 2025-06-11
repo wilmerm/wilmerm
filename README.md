@@ -1,3 +1,5 @@
+![Perfil de Wilmer](https://avatars.githubusercontent.com/u/44853160?s=128)
+
 # 👋 Hi, I’m Wilmer (@wilmerm)
 
 Soy un desarrollador apasionado por crear soluciones prácticas y eficientes. Trabajo principalmente con **Python** y **Django**, **Vue.js**, **JavaScript** y **TypeScript**.
